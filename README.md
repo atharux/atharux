@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @atharux
 - 👀 I’m interested in UX, Blockchain, Data and Product Development
-- 🌱 I’m currently learning development
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on app or dashboard design and development
 - 📫 How to reach me atharuxthefirst@gmail.com
 
